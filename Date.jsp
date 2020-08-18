@@ -10,7 +10,7 @@ pageEncoding="US-ASCII"%>
   <body>
     <h2>Hi Ziv, this is a message from Idan Ram</h2>
     <br />
-    <h1><strong>The current time is</strong>: <%=new Date() %></h1>
+    <h1>The current time is: <strong><%=new Date() %></strong></h1>
     <br />
     <h3>Have a nice day!</h3>
   </body>
