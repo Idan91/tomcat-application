@@ -8,9 +8,9 @@ pageEncoding="US-ASCII"%>
   </head>
   <%@ page import="java.util.Date" %>
   <body>
-    <h2>Hi Ziv, this is a message from Idan.</h2>
+    <h2>Hi Ziv, this is a message from Idan Ram</h2>
     <br />
-    <strong>The current time is</strong>: <%=new Date() %>
+    <h1><strong>The current time is</strong>: <%=new Date() %></h1>
     <br />
     <h3>Have a nice day!</h3>
   </body>
