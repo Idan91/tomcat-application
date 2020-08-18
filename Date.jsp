@@ -12,6 +12,7 @@ pageEncoding="US-ASCII"%>
     <br />
     <h1>The current time is: <strong><%=new Date() %></strong></h1>
     <br />
+    <br />
     <h3>Have a nice day!</h3>
   </body>
 </html>
